@@ -36,7 +36,7 @@ I also make (bad) music 🎵, (bad) 3d model 🧱, (decent) edit videos 📼, (g
 ###### (don't feel forced to at all <3)
 | Address / Link | Platform |
 | --- | --- |
-| `bc1qszglkavm9gjm446llrclr2ey9hpgj04hzxk2y5` | Bitcoin |
-| `0x639A7468c1197E85f4DD3101561a44ECCFa2de7f` | Ethereum |
+| [lastingsunset](https://paypal.me/lastingsunset) | PayPal |
+| [xnasuni](https://ko-fi.com/xnasuni) | Ko-Fi |
 
 Made with ♡ by [Mia](https://github.com/xNasuni)
