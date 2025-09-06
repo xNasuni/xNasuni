@@ -18,7 +18,8 @@
 <a href="https://github.com/xNasuni/Crossfabric">crossfabric</a> minecraft library - <a href="https://modrinth.com/mod/crossfabric/"><img src="https://img.shields.io/modrinth/dt/OUZd8GdP?logo=modrinth&color=07a85c" alt="Modrinth Downloads" height="30px"/></a><br>
 <a href="https://github.com/xNasuni/google-forms-unlocker">google forms unlocker</a> userscript - <img src="https://img.shields.io/github/stars/xnasuni/google-forms-unlocker?style=flat&label=Google%20Forms%20Unlocker&logo=github" alt="Repo Stars" height="30px"/><br>
 <a href="https://github.com/xNasuni/artlist-downloader">artlist downloader</a> userscript - <img src="https://img.shields.io/github/stars/xnasuni/artlist-downloader?style=flat&label=Artlist%20Downloader&logo=github" alt="Repo Stars" height="30px"/><br>
-<a href="https://github.com/xNasuni/adobefirefly-downloader">adobe firefly downloader</a> userscript - <img src="https://img.shields.io/github/stars/xnasuni/adobefirefly-downloader?style=flat&label=Adobe%20Firefly%20Downloader&logo=github" alt="Repo Stars" height="30px"/>
+<a href="https://github.com/xNasuni/adobefirefly-downloader">adobe firefly downloader</a> userscript - <img src="https://img.shields.io/github/stars/xnasuni/adobefirefly-downloader?style=flat&label=Adobe%20Firefly%20Downloader&logo=github" alt="Repo Stars" height="30px"/><br>
+<a href="https://github.com/xNasuni/luau-web">luau web</a> package - <a href="https://www.npmjs.com/package/luau-web"><img src="https://img.shields.io/npm/v/luau-web?logo=npm&label=luau%20web" alt="Luau Web Package" height="30px"/></a>
 <br>
 <br>
 
