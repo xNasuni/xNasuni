@@ -46,4 +46,4 @@
 <img src="https://github.com/xNasuni/xNasuni/blob/main/KawaiiSunsetVariation2_8x.png?raw=true" width="240px" align="right">
 made with ♡ by <a href="https://github.com/xNasuni">Mia!</a><br>
 ~ shoutout to <a href="https://github.com/Ramezsushi">Rame!</a><br><br>
-also check out <a href="https://github.com/sily-lily">lily</a> :3<br>
+also check out <a href="https://github.com/transicle">lily</a> :3<br>
