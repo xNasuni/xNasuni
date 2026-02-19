@@ -26,7 +26,7 @@
 
 <h2>stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xNasuni&show_icons=true&count_private=true&theme=dracula"></img>
+<img src="./profile/stats.svg"></img>
 | *programming* languages | skill / knowledge |
 | --- | --- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16px"/> Java | ██████████ (100) |
@@ -34,17 +34,17 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16px"/> JS/TS/NodeJS | ██████████ (100) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="16px"/> Lua & Luau | ██████████ (100) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16px"/> HTML & CSS | ███████░░░ (70) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> Python | ██████░░░░ (60) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> C/C++ | █████░░░░░ (50) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16px"/> C/C++ | ██████░░░░ (60) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16px"/> Python | █████░░░░░ (50) |
 ---
 
 <img src="https://github.com/xNasuni/xNasuni/blob/main/HeartSunsetVariation2_8x.png?raw=true" width="90px" align="left">
 <p>please be safe<br>talk with your friends when you're feeling sad<br>you're never alone<br>surround yourself constantly with positivity</p>
 <h2></h2>
 
-<a title="mia\'s wegbsite :3" href="https://transgirls.win/"><img src="https://transgirls.win/assets/media/transgirlsdark3.gif" width="88px" style="image-rendering: pixelated;"></img></a><image src="https://transgirls.win/assets/media/princess.gif"></image><a target="_blank" href="https://ko-fi.com/xnasuni"><image src="https://transgirls.win/assets/media/supportmeonkofi.gif"></image></a><a href="https://transgirls.win/rain"><image title="listen to the rain..." src="https://transgirls.win/assets/media/rain.gif"></image></a><image id="autism" src="https://transgirls.win/assets/media/autism.gif"></image><a target="_blank" href="https://open.spotify.com/artist/78I7SHrQ5nXWTxtNrKs4zr"><image src="https://transgirls.win/assets/media/music.gif"></image></a><a id="queer"><image src="https://transgirls.win/assets/media/queercoded.png"></image></a><image src="https://transgirls.win/assets/media/madewithmyowntwopaws.jpg"></image><a target="_blank" title="the internet" href="https://eightyeightthirty.one/"><img src="https://transgirls.win/assets/media/88x31.png"></img></a>
+<a title="mia\'s wegbsite :3" href="https://transgirls.win/"><img src="https://transgirls.win/assets/media/transgirlsdark3.gif" width="88px" style="image-rendering: pixelated;"></img></a>&nbsp;<a id="princess"><image src="https://transgirls.win/assets/media/princess.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a target="_blank" href="https://ko-fi.com/xnasuni"><image src="https://transgirls.win/assets/media/supportmeonkofi.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a href="https://transgirls.win/rain"><image title="listen to the rain..." src="https://transgirls.win/assets/media/rain.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a id="autism"><image id="autism" src="https://transgirls.win/assets/media/autism.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a target="_blank" href="https://open.spotify.com/artist/78I7SHrQ5nXWTxtNrKs4zr"><image src="https://transgirls.win/assets/media/music.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a id="gay"><image src="https://transgirls.win/assets/media/gay.gif" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a id="queer"><image src="https://transgirls.win/assets/media/queercoded.png" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a id="paws"><image src="https://transgirls.win/assets/media/madewithmyowntwopaws.jpg" width="88px" style="image-rendering: pixelated;"></image></a>&nbsp;<a target="_blank" title="NON STOP NYAN CAT" href="https://www.nyan.cat/"><img src="https://transgirls.win/assets/media/nyancat.gif" width="88px" style="image-rendering: pixelated;"></img></a>&nbsp;<a target="_blank" title="the internet" href="https://eightyeightthirty.one/"><img src="https://transgirls.win/assets/media/88x31.png" width="88px" style="image-rendering: pixelated;"></img></a>
 
 <img src="https://github.com/xNasuni/xNasuni/blob/main/KawaiiSunsetVariation2_8x.png?raw=true" width="240px" align="right">
 made with ♡ by <a href="https://github.com/xNasuni">Mia!</a><br>
 ~ shoutout to <a href="https://github.com/Ramezsushi">Rame!</a><br><br>
-also check out <a href="https://github.com/transicle">lily</a> :3<br>
+also check out <a href="https://github.com/transicle">Lily!</a> :3<br>
