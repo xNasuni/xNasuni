@@ -19,9 +19,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&theme=dracula
+          options: username=xNasuni&show_icons=true&count_private=true&theme=dracula
           path: profile/stats.svg
-          token: ${{ secrets.FGA_TOKEN }}
+          token: ${{ secrets.CARD_TOKEN }}
 
       - name: commit cards
         run: |
