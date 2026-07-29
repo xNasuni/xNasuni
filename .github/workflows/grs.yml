@@ -16,10 +16,10 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=xNasuni&show_icons=true&count_private=true&theme=dracula
+          options: username=xNasuni&show_icons=true&count_private=true&theme=material-palenight
           path: profile/stats.svg
           token: ${{ secrets.CARD_TOKEN }}
 
